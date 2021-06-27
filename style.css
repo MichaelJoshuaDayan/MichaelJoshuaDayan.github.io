@@ -1,0 +1,13 @@
+body {
+    background-color: #e6e8ff;
+}
+
+.table-border {
+    border: 2px solid #00FF00;
+}
+
+#photo-resize{
+    width: 200px;
+	height: 250px;
+	border: 2px solid #00FF00;
+}
