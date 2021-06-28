@@ -4,6 +4,10 @@ body {
 
 .table-border {
     border: 2px solid #00FF00;
+	width: 80%;
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #photo-resize{
